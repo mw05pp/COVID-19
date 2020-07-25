@@ -1,0 +1,44 @@
+body {
+  background-color: #f2f2f2;
+  margin: 5%;
+}
+
+.mini_container {
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  margin: 3px;
+  padding: 3px;
+  position: relative;
+  box-shadow: 2px 2px 2px black;
+  width: 100%;
+  text-align: center;
+}
+
+.flex-display {
+  display: flex;
+}
+
+.firstCell {
+
+}
+
+.firstRow {
+    background-color: #fff4e8;
+    font-weight: 900;
+}
+
+.secondRow {
+    background-color: #fffcd6;
+}
+
+.thirdRow {
+    background-color: #f2ffe6;
+}
+
+.fourthRow {
+    background-color: #ffe0ea;
+}
+
+.firstColumn {
+    font-weight: 900;
+}
