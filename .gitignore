@@ -1,2 +1,6 @@
 *.ipynb*
 *.ipynb
+.idea
+*.pyc
+.DS_Store
+.env
